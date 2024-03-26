@@ -20,11 +20,15 @@ Before you start, make sure you have installed:
 ## Configuration
 
 1. Clone the repository to your local machine:
+
 ```bash
-git clone git@github.com:vietlongdang/Give-A-Hand-Front-End.git
+git clone git@github.com:vietlongdang/book-store-backend.git
 ```
+
 2. Navigate to the project directory:
+
 ```bash
 cd book-store-frontend
 ```
+
 3. **Set Up Database Schema**: Execute all SQL scripts located in the scripts folder to configure your database schema.
